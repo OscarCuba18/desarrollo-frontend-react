@@ -1,8 +1,8 @@
-import Logo from "./_components/Logo";
-import Description from "./_components/Description";
+import Logo from "./Default/_components/Logo";
+import Description from "./Default/_components/Description";
 import OpenLink from "../components/OpenLink";
-import Lesoninfo from "./_components/Lesoninfo"
-import Contador from "./_components/Contador";
+import Lesoninfo from "./Default/_components/Lesoninfo"
+import Contador from "./Default/_components/Contador";
 //import Github from "./_components/Github";
 const Default = () => {
     return (
