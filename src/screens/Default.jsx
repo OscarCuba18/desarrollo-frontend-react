@@ -2,11 +2,13 @@ import Logo from "./_components/Logo";
 import Description from "./_components/Description";
 import OpenLink from "../components/OpenLink";
 import Lesoninfo from "./_components/Lesoninfo"
+import Contador from "./_components/Contador";
 //import Github from "./_components/Github";
 const Default = () => {
     return (
         <>
             <header className="App-header">
+                <Contador />
                 <Logo />
                 <Description/>
                 <OpenLink
