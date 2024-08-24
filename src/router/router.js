@@ -1,4 +1,5 @@
 import { createBrowserRouter } from 'react-router-dom';
+import { HashRouter as Router } from 'react-router-dom';
 
 import LandingPage from "../screens/LandingPage";
 import Default from "../screens/Default";
